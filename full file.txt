@@ -1,5 +1,5 @@
-blcok and allows that on top of hagezi multi ultimate create an ad free block free web especially streaming ads on almost all apps including devices (apple tv, etc)
-\f0\fs24 \cf0 #voice realted domains 
+#blcok and allows that on top of hagezi multi ultimate create an ad free block free web especially streaming ads on almost #all apps including devices (apple tv, etc)
+
 @@||taskassist-pa.googleapis.com    
 @@||identitytoolkit.googleapis.com    
 @@||notifications-pa.googleapis.com    
